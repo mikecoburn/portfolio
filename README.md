@@ -1,8 +1,39 @@
-# Portfolio
+# (2016/11 ~ 2017/11) Project Connection Tower
 
+#### OVERVIEW :  
+本プロジェクトは、国立高専連携宇宙人材育成プロジェクトの一つである国立高専超小型衛星開発の実現を目指したもので、第2革新的衛星技術実証プログラムへの応募に向けて木星電波観測用2U Cubesat "JBeam" の開発を行なっています。JBeamでは、360°(180°+180°)カメラとDRWを用いた"革新的な姿勢角誤差1°以内の超高精度姿勢制御系"を実現することにより、今後の実現および増加が予想される商業超小型衛星への適用ができると考えられます。また、"超小型LinuxマイコンボードRaspberry Pi Zeroによる先進的なOBCの実現"は、OBCの高度化に寄与し、さらにソフト開発の難易度を劇的に下げることに貢献することができます。そして、"7.2m木星電波アンテナ伸展技術の実証実験"では、低周波アンテナ伸展技術を確立することにより超小型衛星を使った宇宙における低周波電波観測に大きな革新をもたらすことができると考えます。
 
+#### URL :
+<https://www.kenkai.jaxa.jp/kakushin/kakushin02.html>   
 
-# Project Connection Tower (2014/11 ~ 2015/11)
+#### SKILL :  
+OS : Linux (Raspberry Pi)  
+Language : Python, C++  
+PCB Design : Autodesk Invetor  
+System Design : MathWorks Simulink  
+Environmental Reproduction : UE4
+
+#### 3D VIEW :  
+<https://a360.co/2DG16y6>  
+  
+
+![1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
+
+![3](https://user-images.githubusercontent.com/41835586/100241648-4464c300-2f77-11eb-9eb5-51ebbeb57368.jpg)
+
+![4](https://user-images.githubusercontent.com/41835586/100241661-4890e080-2f77-11eb-87e5-10f1eed289f4.jpg)
+
+![5](https://user-images.githubusercontent.com/41835586/100241670-4b8bd100-2f77-11eb-88fa-f2ea817bc291.jpg)
+
+![6](https://user-images.githubusercontent.com/41835586/100241684-4fb7ee80-2f77-11eb-8422-3a8f5f4b5161.jpg)
+
+![7](https://user-images.githubusercontent.com/41835586/100241697-52b2df00-2f77-11eb-94d6-db306b7fa0f5.jpg)
+
+![8](https://user-images.githubusercontent.com/41835586/100241705-55153900-2f77-11eb-9d28-d710cd2ff78d.jpg)
+
+![9](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
+
+# (2014/11 ~ 2015/11) Project Connection Tower
 
 #### OVERVIEW :
 本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。上級生4人(当時5年生)の下で学んだことを生かし2014年の11月からAndroid版app開発を行いました。  
