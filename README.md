@@ -10,7 +10,7 @@
 OS : Linux (Raspberry Pi)  
 Language : Python, C++  
 PCB Design : Autodesk Invetor  
-System Design : MathWorks MATLAB
+System Design : MathWorks MATLAB  
 Environmental Reproduction : UE4
 
 #### 3D VIEW :  
