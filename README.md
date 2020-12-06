@@ -1,4 +1,4 @@
-# Project Connection Tower
+# Project JBeam
 
 #### PERIOD :
 2016/11~2017/11
@@ -36,7 +36,10 @@ Environmental Reproduction : UE4
 
 ![9](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
 
-# (2014/11 ~ 2015/11) Project Connection Tower
+# Project Connection Tower
+
+#### PERIOD :
+2014/11~2015/11
 
 #### OVERVIEW :
 本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。上級生4人(当時5年生)の下で学んだことを生かし2014年の11月からAndroid版app開発を行いました。  
