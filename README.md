@@ -22,20 +22,13 @@ Environmental Reproduction : UE4
   
 
 ![1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
-
-![3](https://user-images.githubusercontent.com/41835586/100241648-4464c300-2f77-11eb-9eb5-51ebbeb57368.jpg)
-
-![4](https://user-images.githubusercontent.com/41835586/100241661-4890e080-2f77-11eb-87e5-10f1eed289f4.jpg)
-
-![5](https://user-images.githubusercontent.com/41835586/100241670-4b8bd100-2f77-11eb-88fa-f2ea817bc291.jpg)
-
-![6](https://user-images.githubusercontent.com/41835586/100241684-4fb7ee80-2f77-11eb-8422-3a8f5f4b5161.jpg)
-
-![7](https://user-images.githubusercontent.com/41835586/100241697-52b2df00-2f77-11eb-94d6-db306b7fa0f5.jpg)
-
-![8](https://user-images.githubusercontent.com/41835586/100241705-55153900-2f77-11eb-9d28-d710cd2ff78d.jpg)
-
-![9](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
+![2](https://user-images.githubusercontent.com/41835586/100241648-4464c300-2f77-11eb-9eb5-51ebbeb57368.jpg)
+![3](https://user-images.githubusercontent.com/41835586/100241661-4890e080-2f77-11eb-87e5-10f1eed289f4.jpg)
+![4](https://user-images.githubusercontent.com/41835586/100241670-4b8bd100-2f77-11eb-88fa-f2ea817bc291.jpg)
+![5](https://user-images.githubusercontent.com/41835586/100241684-4fb7ee80-2f77-11eb-8422-3a8f5f4b5161.jpg)
+![6](https://user-images.githubusercontent.com/41835586/100241697-52b2df00-2f77-11eb-94d6-db306b7fa0f5.jpg)
+![7](https://user-images.githubusercontent.com/41835586/100241705-55153900-2f77-11eb-9d28-d710cd2ff78d.jpg)
+![8](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
 
 # Project Connection Tower
 
@@ -53,9 +46,9 @@ Editer : Android studio
 <http://tower.city.nankoku.lg.jp>  
 
 
-![7](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
-![2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
-![3](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
-![4](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
-![5](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
-![6](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
+![1](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
+![2](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
+![3](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
+![4](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
+![5](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
+![6](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
