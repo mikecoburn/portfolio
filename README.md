@@ -3,7 +3,10 @@
 #### PERIOD :
 2016/11~2017/11
 
-#### OVERVIEW :  
+#### OVERVIEW EN :  
+This project aims to realize the development of the ultra-small satellite of the National institute of Technology, which is one of the National institute of Technology collaboration space human resources development project, and aims to apply for the 2nd innovative satellite technology demonstration program for Jupiter radio observation, We are developing 2U CubeSat "JBeam". JBeam realizes an "Ultra-high accuracy posture control system with an innovative posture angle error of 1 degree" or less using a 360°(180°+180°) camera and DRW, so that it can be applied to commercial ultra-small satellite that are expected to be realized and increased in the future Can be considered. In addition, "Realization of advanced OBC by microscopic Linux microcomputer board Raspberry Pi Zero" contributes to the advancement of OBC, and can further contribute to dramatically lowering the difficulty of software development. And, "Demonstration experiment of 7.2m Jupiter radio antenna extension technology", we believe that establishing low frequency antenna extension technology will bring great innovation to observation of low frequency radio waves in the universe using ultra-small satellite.
+
+#### OVERVIEW JP :  
 本プロジェクトは、国立高専連携宇宙人材育成プロジェクトの一つである国立高専超小型衛星開発の実現を目指したもので、第2革新的衛星技術実証プログラムへの応募に向けて木星電波観測用2U Cubesat "JBeam" の開発を行なっています。JBeamでは、360°(180°+180°)カメラとDRWを用いた"革新的な姿勢角誤差1°以内の超高精度姿勢制御系"を実現することにより、今後の実現および増加が予想される商業超小型衛星への適用ができると考えられます。また、"超小型LinuxマイコンボードRaspberry Pi Zeroによる先進的なOBCの実現"は、OBCの高度化に寄与し、さらにソフト開発の難易度を劇的に下げることに貢献することができます。そして、"7.2m木星電波アンテナ伸展技術の実証実験"では、低周波アンテナ伸展技術を確立することにより超小型衛星を使った宇宙における低周波電波観測に大きな革新をもたらすことができると考えます。
 
 #### SKILL :  
