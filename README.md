@@ -12,7 +12,7 @@
 #### SKILL :  
 OS : Linux (Raspberry Pi)  
 Language : Python, C++  
-PCB/3D Design : Autodesk Invetor 
+PCB/3D Design : Autodesk Invetor  
 3D Design : Rhino(Grasshopper)  
 System Design : MathWorks MATLAB  
 Environmental Reproduction : UE4
