@@ -15,6 +15,7 @@ Language : Python, C++
 PCB/3D Design : Autodesk Invetor  
 3D Design : Rhino(Grasshopper)  
 System Design : MathWorks MATLAB  
+Spectrum Analysis : IDL  
 Environmental Reproduction : UE4
 
 #### URL
