@@ -1,6 +1,6 @@
 # BCI Device Algorithm Development
 
-#### FFILIATION
+#### AFFILIATION
 University of Melbourne
 
 #### PERIOD
@@ -26,7 +26,7 @@ System Design : MathWorks MATLAB
 
 # Project JBeam
 
-#### FFILIATION
+#### AFFILIATION
 National institute of Technology Kochi College
 
 #### PERIOD
@@ -65,7 +65,7 @@ Environmental Reproduction : UE4
 
 # Project Connection Tower
 
-#### FFILIATION
+#### AFFILIATION
 National institute of Technology Kochi College
 
 #### PERIOD
