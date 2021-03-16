@@ -75,7 +75,7 @@ National institute of Technology, Kochi College
 This project is to make it easy to safety confirmation on evacuation by using Beacon installed in the Tsunami evacuation tower, wireless LAN system, and satellite Internet when a Nankai Trough Huge earthquake that Kochi prefecture faces in the future occurs It is aiming. I made Android version app development from November 2014, taking advantage of what I learned under the senior students (At that time, 5th grade).  
 
 #### OVERVIEW JP
-本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。上級生4人(当時5年生)の下で学んだことを生かし2014年の11月からAndroid版app開発を行いました。  
+本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。主にUI/UXの改善や機能実装を行いました。  
 
 #### SKILL
 Language : Java  
