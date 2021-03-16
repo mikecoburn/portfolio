@@ -27,7 +27,7 @@ System Design : MathWorks MATLAB
 # Project JBeam
 
 #### AFFILIATION
-National institute of Technology Kochi College
+National institute of Technology, Kochi College
 
 #### PERIOD
 2015/12~2017/11
@@ -66,7 +66,7 @@ Environmental Reproduction : UE4
 # Project Connection Tower
 
 #### AFFILIATION
-National institute of Technology Kochi College
+National institute of Technology, Kochi College
 
 #### PERIOD
 2014/11~2015/11
