@@ -4,8 +4,14 @@
 2018/03~2020/02
 
 #### OVERVIEW EN
+Develop computational models of network communication that accurately approximate patterns of neural signalling  
+Understanding disrupted neural communication in disease states  
+Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation  
 
 #### OVERVIEW JP
+神経信号のパターンを正確に近似したネットワーク通信の計算モデルの開発  
+疾患における神経伝達の乱れの解明  
+臨床的な脳刺激に重点を置いて、外部からの刺激がどのように脳内を伝播するかを研究  
 
 #### SKILL
 Language : Python, C++  
