@@ -73,7 +73,7 @@ This project is to make it easy to safety confirmation on evacuation by using Be
 Java / JavaScript / Android studio /
 
 #### URL
-<http://tower.city.nankoku.lg.jp>  
+[Official Site of Connected Tower](http://tower.city.nankoku.lg.jp) 
 
 ![1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
 ![2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
