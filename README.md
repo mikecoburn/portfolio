@@ -4,7 +4,7 @@
 University of Melbourne
 
 #### PERIOD
-2018/03~2020/02
+2018/03~2020/02 (2years)
 
 #### OVERVIEW EN
 Develop computational models of network communication that accurately approximate patterns of neural signalling  
@@ -29,7 +29,7 @@ Python / C++ / VS Code / PyCharm / Docker / MATLAB /
 National institute of Technology, Kochi College
 
 #### PERIOD
-2015/12~2017/11
+2015/12~2017/11 (2years)
 
 #### OVERVIEW EN
 This project aims to realize the development of the ultra-small satellite of the National institute of Technology, which is one of the National institute of Technology collaboration space human resources development project, and aims to apply for the 2nd innovative satellite technology demonstration program for Jupiter radio observation, We are developing 2U CubeSat "JBeam". JBeam realizes an "Ultra-high accuracy posture control system with an innovative posture angle error of 1 degree" or less using a 360°(180°+180°) camera and DRW, so that it can be applied to commercial ultra-small satellite that are expected to be realized and increased in the future Can be considered. In addition, "Realization of advanced OBC by microscopic Linux microcomputer board Raspberry Pi Zero" contributes to the advancement of OBC, and can further contribute to dramatically lowering the difficulty of software development. And, "Demonstration experiment of 7.2m Jupiter radio antenna extension technology", we believe that establishing low frequency antenna extension technology will bring great innovation to observation of low frequency radio waves in the universe using ultra-small satellite.
@@ -61,7 +61,7 @@ Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry 
 National institute of Technology, Kochi College
 
 #### PERIOD
-2014/11~2015/11
+2014/11~2015/11 (1year)
 
 #### OVERVIEW EN
 This project is to make it easy to safety confirmation on evacuation by using Beacon installed in the Tsunami evacuation tower, wireless LAN system, and satellite Internet when a Nankai Trough Huge earthquake that Kochi prefecture faces in the future occurs It is aiming. I made Android version app development from November 2014, taking advantage of what I learned under the senior students (At that time, 5th grade).  
