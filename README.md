@@ -73,7 +73,7 @@ This project is to make it easy to safety confirmation on evacuation by using Be
 #### SKILL
 Java / JavaScript / Android studio /
 
-#### OFFICIAL SITE
+#### URL
 <http://tower.city.nankoku.lg.jp>  
 
 ![1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
