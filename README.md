@@ -20,7 +20,7 @@ Investigate how external stimuli are propagated through the brain, with emphasis
 Python / C++ / VS Code / PyCharm / Docker / MATLAB /
 
 #### URL
-<https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749>   
+[FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
 
 
 # Project JBeam
