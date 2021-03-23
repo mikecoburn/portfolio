@@ -17,8 +17,10 @@ Investigate how external stimuli are propagated through the brain, with emphasis
 臨床的な脳刺激に重点を置いて、外部からの刺激がどのように脳内を伝播するかを研究  
 
 #### SKILL
-Language : Python, C++  
-System Design : MathWorks MATLAB  
+Python / C++ /
+
+#### TOOL
+VS Code / PyCharm / Docker / MATLAB /
 
 #### URL
 <https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749>   
@@ -39,13 +41,10 @@ This project aims to realize the development of the ultra-small satellite of the
 本プロジェクトは、国立高専連携宇宙人材育成プロジェクトの一つである国立高専超小型衛星開発の実現を目指したもので、第2革新的衛星技術実証プログラムへの応募に向けて木星電波観測用2U Cubesat "JBeam" の開発を行なっています。JBeamでは、360°(180°+180°)カメラとDRWを用いた"革新的な姿勢角誤差1°以内の超高精度姿勢制御系"を実現することにより、今後の実現および増加が予想される商業超小型衛星への適用ができると考えられます。また、"超小型LinuxマイコンボードRaspberry Pi Zeroによる先進的なOBCの実現"は、OBCの高度化に寄与し、さらにソフト開発の難易度を劇的に下げることに貢献することができます。そして、"7.2m木星電波アンテナ伸展技術の実証実験"では、低周波アンテナ伸展技術を確立することにより超小型衛星を使った宇宙における低周波電波観測に大きな革新をもたらすことができると考えます。
 
 #### SKILL
-OS : Linux (Raspberry Pi)  
-Language : Python, C++  
-PCB/3D Design : Autodesk Invetor  
-3D Design : Rhino(Grasshopper)  
-System Design : MathWorks MATLAB  
-Spectrum Analysis : IDL  
-Environmental Reproduction : UE4
+Python / C++ / 
+
+#### TOOL
+VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
 
 #### URL
 <https://www.kenkai.jaxa.jp/kakushin/kakushin02.html>   
@@ -78,8 +77,10 @@ This project is to make it easy to safety confirmation on evacuation by using Be
 本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。主にUI/UXの改善や機能実装を行いました。  
 
 #### SKILL
-Language : Java  
-Editer : Android studio  
+Java / JavaScript /
+
+#### TOOL
+Android studio  
 
 #### OFFICIAL SITE
 <http://tower.city.nankoku.lg.jp>  
