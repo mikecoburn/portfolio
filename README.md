@@ -17,7 +17,7 @@ Investigate how external stimuli are propagated through the brain, with emphasis
 臨床的な脳刺激に重点を置いて、外部からの刺激がどのように脳内を伝播するかを研究  
 
 #### SKILL
-Python / C++ / VS Code / PyCharm / Docker / MATLAB /
+Python / C++ / PyCharm / CLion / Docker / MATLAB /
 
 #### URL
 [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
