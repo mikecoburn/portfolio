@@ -42,7 +42,7 @@ Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry 
 
 #### URL
 [2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
-[3D review of JBeam Satellite](https://a360.co/2DG16y6) 
+[3D Preview of JBeam Satellite](https://a360.co/2DG16y6) 
 
 
 ![1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
