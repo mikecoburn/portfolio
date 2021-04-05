@@ -22,7 +22,7 @@ Python / C++ / PyCharm / CLion / Docker / MATLAB /
 [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
 [Video of Stentrode](https://youtu.be/NNo2StiHEnE)  
 
-![3-1](https://user-images.githubusercontent.com/41835586/113608186-2fb2dd00-9685-11eb-8d47-4942d4578795.jpg)
+![3-1](https://user-images.githubusercontent.com/41835586/113608322-60931200-9685-11eb-9124-081778120a62.png)
 
 # JBeam
 
