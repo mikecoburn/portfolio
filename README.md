@@ -1,4 +1,4 @@
-# BCI Device Algorithm Development
+# Project Stentrode
 
 #### AFFILIATION
 University of Melbourne
