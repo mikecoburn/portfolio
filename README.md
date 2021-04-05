@@ -29,7 +29,7 @@ National institute of Technology, Kochi College
 2015/12~2017/11 (2years)
 
 #### overview.
-This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program. 
+This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program.  
 We believe that JBeam can bring about a great innovation in the application to commercial nano-satellites, the advancement of OBC, and low-frequency radio observation in space using nano-satellites by achieving the following three things.  
 
 1) Realization of an innovative attitude control system with an attitude angle error of less than 1° using a 360° camera and DRW  
