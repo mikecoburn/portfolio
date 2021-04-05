@@ -1,48 +1,48 @@
 # Stentrode
 
-#### AFFILIATION
+#### affiliation.
 University of Melbourne
 
-#### PERIOD
+#### period.
 2018/03~2020/02 (2years)
 
-#### OVERVIEW EN
+#### overview en.
 Develop computational models of network communication that accurately approximate patterns of neural signalling.  
 Understanding disrupted neural communication in disease states.  
 Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
 &gt; Participated as a R&D engineer
 
-#### OVERVIEW JP
+#### overview ja.
 神経信号のパターンを正確に近似したネットワーク通信の計算モデルの開発  
 疾患における神経伝達の乱れの解明  
 臨床的な脳刺激に重点を置いて、外部からの刺激がどのように脳内を伝播するかを研究  
 
-#### SKILL
+#### skill.
 Python / C++ / PyCharm / CLion / Docker / MATLAB /
 
-#### URL
+#### url.
 [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
-[Video of Stentrode](https://youtu.be/NNo2StiHEnE)
+[Video of Stentrode](https://youtu.be/NNo2StiHEnE)  
 
 # JBeam
 
-#### AFFILIATION
+#### affiliation.
 National institute of Technology, Kochi College
 
-#### PERIOD
+#### period.
 2015/12~2017/11 (2years)
 
-#### OVERVIEW EN
+#### overview en.
 This project aims to realize the development of the ultra-small satellite of the National institute of Technology, which is one of the National institute of Technology collaboration space human resources development project, and aims to apply for the 2nd innovative satellite technology demonstration program for Jupiter radio observation, We are developing 2U CubeSat "JBeam". JBeam realizes an "Ultra-high accuracy posture control system with an innovative posture angle error of 1 degree" or less using a 360°(180°+180°) camera and DRW, so that it can be applied to commercial ultra-small satellite that are expected to be realized and increased in the future Can be considered. In addition, "Realization of advanced OBC by microscopic Linux microcomputer board Raspberry Pi Zero" contributes to the advancement of OBC, and can further contribute to dramatically lowering the difficulty of software development. And, "Demonstration experiment of 7.2m Jupiter radio antenna extension technology", we believe that establishing low frequency antenna extension technology will bring great innovation to observation of low frequency radio waves in the universe using ultra-small satellite.  
 &gt; Participated as a Project leader.
 
-#### OVERVIEW JP 
+#### overview ja.
 本プロジェクトは、国立高専連携宇宙人材育成プロジェクトの一つである国立高専超小型衛星開発の実現を目指したもので、第2革新的衛星技術実証プログラムへの応募に向けて木星電波観測用2U Cubesat "JBeam" の開発を行なっています。JBeamでは、360°(180°+180°)カメラとDRWを用いた"革新的な姿勢角誤差1°以内の超高精度姿勢制御系"を実現することにより、今後の実現および増加が予想される商業超小型衛星への適用ができると考えられます。また、"超小型LinuxマイコンボードRaspberry Pi Zeroによる先進的なOBCの実現"は、OBCの高度化に寄与し、さらにソフト開発の難易度を劇的に下げることに貢献することができます。そして、"7.2m木星電波アンテナ伸展技術の実証実験"では、低周波アンテナ伸展技術を確立することにより超小型衛星を使った宇宙における低周波電波観測に大きな革新をもたらすことができると考えます。
 
-#### SKILL
+#### skill.
 Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
 
-#### URL
+#### url.
 [2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
 [3D Preview of JBeam Satellite](https://a360.co/2DG16y6) 
 
@@ -59,23 +59,23 @@ Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry 
 
 # Connection Tower
 
-#### AFFILIATION
+#### affiliation.
 National institute of Technology, Kochi College
 
-#### PERIOD
+#### period.
 2014/11~2015/11 (1year)
 
-#### OVERVIEW EN
+#### overview en.
 This project is to make it easy to safety confirmation on evacuation by using Beacon installed in the Tsunami evacuation tower, wireless LAN system, and satellite Internet when a Nankai Trough Huge earthquake that Kochi prefecture faces in the future occurs It is aiming. I made Android version app development from November 2014, taking advantage of what I learned under the senior students (At that time, 5th grade).  
 &gt; Participated as a Full stack engineer.
 
-#### OVERVIEW JP
+#### overview ja.
 本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。主にUI/UXの改善や機能実装を行いました。  
 
-#### SKILL
+#### skill.
 Java / JavaScript / Android studio /
 
-#### URL
+#### url.
 [Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
 
 ![1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
