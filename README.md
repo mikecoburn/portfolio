@@ -32,9 +32,9 @@ National institute of Technology, Kochi College
 This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program.  
 We believe that JBeam can bring about a great innovation in the application to commercial nano-satellites, the advancement of OBC, and low-frequency radio observation in space using nano-satellites by achieving the following three things.  
 
-1) Realization of an innovative attitude control system with an attitude angle error of less than 1° using a 360° camera and DRW  
-2) Realization of advanced OBC using ultra-compact Linux microcontroller board Raspberry Pi  
-3) Demonstration of 7.2m Jupiter radio antenna extension technology  
+1) Realization of an innovative attitude control system with an attitude angle error of less than 1° using a 360° camera and DRW.  
+2) Realization of advanced OBC using ultra-compact Linux microcontroller board Raspberry Pi.  
+3) Demonstration of 7.2m Jupiter radio antenna extension technology.  
   
 &gt; Participated as a Project leader.
 
@@ -65,7 +65,7 @@ National institute of Technology, Kochi College
 2014/11~2015/11 (1year)
 
 #### overview.
-The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future.
+The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future.  
 I mainly improved the UI/UX and implemented functions.  
   
 &gt; Participated as a Full stack engineer.
