@@ -1,4 +1,4 @@
-# Project Stentrode
+# Stentrode
 
 #### AFFILIATION
 University of Melbourne
@@ -24,7 +24,7 @@ Python / C++ / PyCharm / CLion / Docker / MATLAB /
 [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
 [Video of Stentrode](https://youtu.be/NNo2StiHEnE)
 
-# Project JBeam
+# JBeam
 
 #### AFFILIATION
 National institute of Technology, Kochi College
@@ -57,7 +57,7 @@ Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry 
 ![8](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
 
 
-# Project Connection Tower
+# Connection Tower
 
 #### AFFILIATION
 National institute of Technology, Kochi College
