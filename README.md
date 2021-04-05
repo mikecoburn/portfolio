@@ -6,16 +6,11 @@ University of Melbourne
 #### period.
 2018/03~2020/02 (2years)
 
-#### overview en.
+#### overview.
 Develop computational models of network communication that accurately approximate patterns of neural signalling.  
 Understanding disrupted neural communication in disease states.  
 Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
 &gt; Participated as a R&D engineer
-
-#### overview ja.
-神経信号のパターンを正確に近似したネットワーク通信の計算モデルの開発  
-疾患における神経伝達の乱れの解明  
-臨床的な脳刺激に重点を置いて、外部からの刺激がどのように脳内を伝播するかを研究  
 
 #### skill.
 Python / C++ / PyCharm / CLion / Docker / MATLAB /
@@ -65,12 +60,10 @@ National institute of Technology, Kochi College
 #### period.
 2014/11~2015/11 (1year)
 
-#### overview en.
-This project is to make it easy to safety confirmation on evacuation by using Beacon installed in the Tsunami evacuation tower, wireless LAN system, and satellite Internet when a Nankai Trough Huge earthquake that Kochi prefecture faces in the future occurs It is aiming. I made Android version app development from November 2014, taking advantage of what I learned under the senior students (At that time, 5th grade).  
+#### overview.
+The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future.
+I mainly improved the UI/UX and implemented functions.
 &gt; Participated as a Full stack engineer.
-
-#### overview ja.
-本プロジェクトは、高知県が将来直面する南海トラフ巨大地震が発生した際、津波避難タワーに設置されたBeaconや無線LANシステムそして衛星インターネットを利用した避難時の安否確認を容易にすることを目的としています。主にUI/UXの改善や機能実装を行いました。  
 
 #### skill.
 Java / JavaScript / Android studio /
