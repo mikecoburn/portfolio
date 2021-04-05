@@ -7,9 +7,15 @@ University of Melbourne
 2018/03~2020/02 (2years)
 
 #### overview.
-Develop computational models of network communication that accurately approximate patterns of neural signalling.  
-Understanding disrupted neural communication in disease states.  
-Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
+We are developing a model of network communication that approximates biological neural signaling.  
+To do so, we combine innovative methods from computer science, physics, and statistics with multimodal neuroimaging data from thousands of subjects.  
+Our research has provided new fundamental insights into how the anatomical wiring of the brain shapes the functional interactions between regions.   
+These insights are being applied to mapping disrupted neural communication after stroke, machine learning predictions of human behavior from imaging data, and improving brain stimulation protocols used to treat clinical conditions.  
+And, I have been involved in three of the following.  
+  
+1) Develop computational models of network communication that accurately approximate patterns of neural signalling.  
+2) Understanding disrupted neural communication in disease states.  
+3) Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
   
 &gt; Participated as a R&D engineer
 
