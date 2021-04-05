@@ -22,6 +22,8 @@ Python / C++ / PyCharm / CLion / Docker / MATLAB /
 [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
 [Video of Stentrode](https://youtu.be/NNo2StiHEnE)  
 
+![3-1](https://user-images.githubusercontent.com/41835586/113608186-2fb2dd00-9685-11eb-8d47-4942d4578795.jpg)
+
 # JBeam
 
 #### affiliation.
@@ -47,14 +49,14 @@ Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry 
 [3D Preview of JBeam Satellite](https://a360.co/2DG16y6) 
 
 
-![1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
-![2](https://user-images.githubusercontent.com/41835586/100241648-4464c300-2f77-11eb-9eb5-51ebbeb57368.jpg)
-![3](https://user-images.githubusercontent.com/41835586/100241661-4890e080-2f77-11eb-87e5-10f1eed289f4.jpg)
-![4](https://user-images.githubusercontent.com/41835586/100241670-4b8bd100-2f77-11eb-88fa-f2ea817bc291.jpg)
-![5](https://user-images.githubusercontent.com/41835586/100241684-4fb7ee80-2f77-11eb-8422-3a8f5f4b5161.jpg)
-![6](https://user-images.githubusercontent.com/41835586/100241697-52b2df00-2f77-11eb-94d6-db306b7fa0f5.jpg)
-![7](https://user-images.githubusercontent.com/41835586/100241705-55153900-2f77-11eb-9d28-d710cd2ff78d.jpg)
-![8](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
+![2-1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
+![2-2](https://user-images.githubusercontent.com/41835586/100241648-4464c300-2f77-11eb-9eb5-51ebbeb57368.jpg)
+![2-3](https://user-images.githubusercontent.com/41835586/100241661-4890e080-2f77-11eb-87e5-10f1eed289f4.jpg)
+![2-4](https://user-images.githubusercontent.com/41835586/100241670-4b8bd100-2f77-11eb-88fa-f2ea817bc291.jpg)
+![2-5](https://user-images.githubusercontent.com/41835586/100241684-4fb7ee80-2f77-11eb-8422-3a8f5f4b5161.jpg)
+![2-6](https://user-images.githubusercontent.com/41835586/100241697-52b2df00-2f77-11eb-94d6-db306b7fa0f5.jpg)
+![2-7](https://user-images.githubusercontent.com/41835586/100241705-55153900-2f77-11eb-9d28-d710cd2ff78d.jpg)
+![2-8](https://user-images.githubusercontent.com/41835586/100241713-57779300-2f77-11eb-82b5-53f92c9a91e9.jpg)
 
 
 # Connection Tower
@@ -76,9 +78,9 @@ Java / JavaScript / Android studio /
 #### url.
 [Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
 
-![1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
-![2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
-![3](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
-![4](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
-![5](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
-![6](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
+![1-1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
+![1-2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
+![1-3](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
+![1-4](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
+![1-5](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
+![1-6](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
