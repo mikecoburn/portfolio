@@ -7,11 +7,7 @@ University of Melbourne
 2018/03~2020/02 (2years)
 
 #### overview.
-We are developing a model of network communication that approximates biological neural signaling.  
-To do so, we combine innovative methods from computer science, physics, and statistics with multimodal neuroimaging data from thousands of subjects.  
-Our research has provided new fundamental insights into how the anatomical wiring of the brain shapes the functional interactions between regions.   
-These insights are being applied to mapping disrupted neural communication after stroke, machine learning predictions of human behavior from imaging data, and improving brain stimulation protocols used to treat clinical conditions.  
-And, I have been involved in three of the following.  
+We are developing a model of network communication that approximates biological neural signaling. To do so, we combine innovative methods from computer science, physics, and statistics with multimodal neuroimaging data from thousands of subjects. Our research has provided new fundamental insights into how the anatomical wiring of the brain shapes the functional interactions between regions.  These insights are being applied to mapping disrupted neural communication after stroke, machine learning predictions of human behavior from imaging data, and improving brain stimulation protocols used to treat clinical conditions.  
   
 1) Develop computational models of network communication that accurately approximate patterns of neural signalling.  
 2) Understanding disrupted neural communication in disease states.  
@@ -35,8 +31,7 @@ National institute of Technology, Kochi College
 2015/12~2017/11 (2years)
 
 #### overview.
-This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program.  
-We believe that JBeam can bring about a great innovation in the application to commercial nano-satellites, the advancement of OBC, and low-frequency radio observation in space using nano-satellites by achieving the following three things.  
+This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program. We believe that JBeam can bring about a great innovation in the application to commercial nano-satellites, the advancement of OBC, and low-frequency radio observation in space using nano-satellites by achieving the following three things.  
 
 1) Realization of an innovative attitude control system with an attitude angle error of less than 1° using a 360° camera and DRW.  
 2) Realization of advanced OBC using ultra-compact Linux microcontroller board Raspberry Pi.  
@@ -71,8 +66,7 @@ National institute of Technology, Kochi College
 2014/11~2015/11 (1year)
 
 #### overview.
-The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future.  
-I mainly improved the UI/UX and implemented functions.  
+The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future. I mainly improved the UI/UX and implemented functions.  
   
 &gt; Participated as a Full stack engineer.
 
