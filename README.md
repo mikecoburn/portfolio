@@ -10,6 +10,7 @@ University of Melbourne
 Develop computational models of network communication that accurately approximate patterns of neural signalling.  
 Understanding disrupted neural communication in disease states.  
 Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
+  
 &gt; Participated as a R&D engineer
 
 #### skill.
@@ -29,6 +30,7 @@ National institute of Technology, Kochi College
 
 #### overview en.
 This project aims to realize the development of the ultra-small satellite of the National institute of Technology, which is one of the National institute of Technology collaboration space human resources development project, and aims to apply for the 2nd innovative satellite technology demonstration program for Jupiter radio observation, We are developing 2U CubeSat "JBeam". JBeam realizes an "Ultra-high accuracy posture control system with an innovative posture angle error of 1 degree" or less using a 360°(180°+180°) camera and DRW, so that it can be applied to commercial ultra-small satellite that are expected to be realized and increased in the future Can be considered. In addition, "Realization of advanced OBC by microscopic Linux microcomputer board Raspberry Pi Zero" contributes to the advancement of OBC, and can further contribute to dramatically lowering the difficulty of software development. And, "Demonstration experiment of 7.2m Jupiter radio antenna extension technology", we believe that establishing low frequency antenna extension technology will bring great innovation to observation of low frequency radio waves in the universe using ultra-small satellite.  
+  
 &gt; Participated as a Project leader.
 
 #### overview ja.
@@ -62,7 +64,8 @@ National institute of Technology, Kochi College
 
 #### overview.
 The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future.
-I mainly improved the UI/UX and implemented functions.
+I mainly improved the UI/UX and implemented functions.  
+  
 &gt; Participated as a Full stack engineer.
 
 #### skill.
