@@ -8,7 +8,7 @@ University of Melbourne
 
 #### overview.
 We are developing a model of network communication that approximates biological neural signaling. To do so, we combine innovative methods from computer science, physics, and statistics with multimodal neuroimaging data from thousands of subjects. Our research has provided new fundamental insights into how the anatomical wiring of the brain shapes the functional interactions between regions.  These insights are being applied to mapping disrupted neural communication after stroke, machine learning predictions of human behavior from imaging data, and improving brain stimulation protocols used to treat clinical conditions.  
-&gt; Participated as a R&D engineer  
+&rarr; Participated as a R&D engineer  
 
 1) Develop computational models of network communication that accurately approximate patterns of neural signalling.  
 2) Understanding disrupted neural communication in disease states.  
@@ -18,8 +18,8 @@ We are developing a model of network communication that approximates biological 
 Python / C++ / PyCharm / CLion / Docker / MATLAB /
 
 #### url.
-[FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
-[Video of Stentrode](https://youtu.be/NNo2StiHEnE)  
+&rarr; [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
+&rarr; [Video of Stentrode](https://youtu.be/NNo2StiHEnE)  
 
 ![3-1](https://user-images.githubusercontent.com/41835586/113608322-60931200-9685-11eb-9124-081778120a62.png)
 
@@ -33,7 +33,7 @@ National institute of Technology, Kochi College
 
 #### overview.
 This project aims to realize the development of nano-satellites as part of the National College of Technology Cooperative Space Human Resource Development Project, and we are developing the 2U Cubesat "JBeam" for Jupiter radio observation to apply for the 2nd Innovative Satellite Technology Demonstration Program. We believe that JBeam can bring about a great innovation in the application to commercial nano-satellites, the advancement of OBC, and low-frequency radio observation in space using nano-satellites by achieving the following three things.  
-&gt; Participated as a Project leader  
+&rarr; Participated as a Project leader  
 
 1) Realization of an innovative attitude control system with an attitude angle error of less than 1° using a 360° camera and DRW.  
 2) Realization of advanced OBC using ultra-compact Linux microcontroller board Raspberry Pi.  
@@ -43,8 +43,8 @@ This project aims to realize the development of nano-satellites as part of the N
 Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
 
 #### url.
-[2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
-[3D Preview of JBeam Satellite](https://a360.co/2DG16y6) 
+&rarr; [2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
+&rarr; [3D Preview of JBeam Satellite](https://a360.co/2DG16y6) 
 
 
 ![2-1](https://user-images.githubusercontent.com/41835586/100241629-3e6ee200-2f77-11eb-8b5c-ba30e5595f2f.jpg)
@@ -67,13 +67,13 @@ National institute of Technology, Kochi College
 
 #### overview.
 The purpose of this project is to make it easier to confirm the safety of evacuees using Beacon, wireless LAN system, and satellite Internet installed in tsunami evacuation towers in the event of a huge Nankai Trough earthquake that Kochi Prefecture will face in the future. I mainly improved the UI/UX and implemented functions.  
-&gt; Participated as a Full stack engineer
+&rarr; Participated as a Full stack engineer
 
 #### skill.
 Java / JavaScript / Android studio /
 
 #### url.
-[Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
+&rarr; [Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
 
 ![1-1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
 ![1-2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
