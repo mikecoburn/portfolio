@@ -75,9 +75,9 @@ Java / JavaScript / Android studio /
 #### url.
 &rarr; [Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
 
-![1-1](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
-![1-2](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
-![1-3](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
-![1-4](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
-![1-5](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
-![1-6](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
+![1-1](https://user-images.githubusercontent.com/41835586/100242020-aa514a80-2f77-11eb-9854-aab4b9bd35b5.jpg)
+![1-2](https://user-images.githubusercontent.com/41835586/100242026-acb3a480-2f77-11eb-80b3-a86fec5eeacd.jpg)
+![1-3](https://user-images.githubusercontent.com/41835586/100242028-ade4d180-2f77-11eb-8bcd-84709d8b152d.jpg)
+![1-4](https://user-images.githubusercontent.com/41835586/100242030-ae7d6800-2f77-11eb-8336-0e197a4b6d84.jpg)
+![1-5](https://user-images.githubusercontent.com/41835586/100242031-af15fe80-2f77-11eb-8a8d-65e3dd7921bb.jpg)
+![1-6](https://user-images.githubusercontent.com/41835586/100242035-af15fe80-2f77-11eb-9ae4-8569a23be692.jpg)
