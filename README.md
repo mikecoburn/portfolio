@@ -40,7 +40,7 @@ This project aims to realize the development of nano-satellites as part of the N
 3) Demonstration of 7.2m Jupiter radio antenna extension technology.  
 
 #### skill.
-Python / C++ / VS Code / Docker / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
+Python / C++ / VS Code / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
 
 #### url.
 &rarr; [2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
