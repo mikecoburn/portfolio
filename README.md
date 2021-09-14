@@ -15,7 +15,7 @@ We are developing a model of network communication that approximates biological 
 3) Investigate how external stimuli are propagated through the brain, with emphasis on clinical brain stimulation.  
 
 #### skill.
-Python / C++ / PyCharm / CLion / Docker / MATLAB /
+Python / C++ / Docker / MATLAB /
 
 #### url.
 &rarr; [FEIT Research Project Database](https://apps.eng.unimelb.edu.au/research-projects/index.php?r=site/webView&id=749)  
@@ -40,7 +40,7 @@ This project aims to realize the development of nano-satellites as part of the N
 3) Demonstration of 7.2m Jupiter radio antenna extension technology.  
 
 #### skill.
-Python / C++ / VS Code / Invetor / Rhino 3D / MATLAB / UE4 / Raspberry Pi /
+Python / C++ / Docker / Invetor / MATLAB / UE4 / Raspberry Pi /
 
 #### url.
 &rarr; [2nd Innovative Satellite Technology Demonstration Program (JAXA)](https://www.kenkai.jaxa.jp/kakushin/kakushin02.html)  
@@ -70,7 +70,7 @@ The purpose of this project is to make it easier to confirm the safety of evacue
 &rarr; Participated as a Full stack engineer
 
 #### skill.
-Java / JavaScript / Android studio /
+Java / JavaScript /
 
 #### url.
 &rarr; [Official Site of Connection Tower](http://tower.city.nankoku.lg.jp) 
