@@ -1,7 +1,7 @@
-# Stentrode (R&D Project)
+# Stentrode (R&D Project from DARPA)
 
 #### affiliation.
-University of Melbourne
+University of Melbourne & DARPA
 
 #### period.
 2018/03~2020/02 (2years)
